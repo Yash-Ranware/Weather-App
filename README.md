@@ -39,15 +39,6 @@ or open an issue in the GitHub repository.
 
 WeatherSense is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
 
-# Acknowledgements
-
-1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
-2. I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
-
-# Contact
-
-If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - anantaggcsai@gmail.com 
-or create an issue on the GitHub repository.
 
 # Final Thoughts
 
